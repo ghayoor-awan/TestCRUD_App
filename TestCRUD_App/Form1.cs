@@ -13,6 +13,8 @@ namespace TestCRUD_App
 
     public partial class Form1 : Form
     {
+
+        String name = "Ghayoor";
         public Form1()
         {
             InitializeComponent();
